@@ -1,0 +1,56 @@
+.register {
+  display: flex;
+  flex-direction: column;
+}
+.register .location {
+  display: flex;
+  flex-direction: row;
+  margin: 0.5rem;
+}
+.register .location input {
+  margin: 5px;
+}
+.register .name {
+  display: flex;
+  flex-direction: row;
+  margin: 0.5rem;
+}
+.register .name input {
+  margin: 5px;
+}
+.register .other {
+  display: flex;
+  flex-direction: row;
+  margin: 0.5rem;
+}
+.register .other input {
+  margin: 5px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.register .registerLogin {
+  display: flex;
+  flex-direction: row;
+  margin: 0.5rem;
+}
+.register .registerLogin input {
+  margin: 5px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.register #submit {
+  width: 4rem;
+  height: 2rem;
+  margin-left: 2rem;
+}
+
+.error {
+  background-color: rgb(252, 99, 99);
+  min-width: 20rem;
+  max-width: 50rem;
+  text-align: center;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-radius: 10px;
+  font-size: 20px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,45 @@
+.register {
+  display: flex;
+  flex-direction: column;
+  .location{
+    display: flex;
+    flex-direction: row;
+    margin: .5rem;
+    input {
+      margin: 5px;
+    }
+  }
+  .name {
+    display: flex;
+    flex-direction: row;
+    margin: .5rem;
+    input {
+      margin: 5px;
+    }
+  }
+  .other {
+    display: flex;
+    flex-direction: row;
+    margin: .5rem;
+    input {
+      margin: 5px;
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+  }
+  .registerLogin {
+    display: flex;
+    flex-direction: row;
+    margin: .5rem;
+    input {
+      margin: 5px;
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+  }
+  #submit {
+    width: 4rem;
+    height: 2rem;
+    margin-left: 2rem;
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "PHProx\\Models\\": "app/models/",
+      "PHProx\\Base\\": "app/libraries/",
+      "PHProx\\Controllers\\": "app/controllers/",
+      "PHProx\\Checkers\\": "app/checkers/",
+      "PHProx\\Validators\\": "app/validators/"
+    }
+  }
+}
