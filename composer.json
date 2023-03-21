@@ -5,7 +5,8 @@
       "PHProx\\Base\\": "app/libraries/",
       "PHProx\\Controllers\\": "app/controllers/",
       "PHProx\\Checkers\\": "app/checkers/",
-      "PHProx\\Validators\\": "app/validators/"
+      "PHProx\\Validators\\": "app/validators/",
+      "PHProx\\Util\\": "app/utility/"
     }
   }
 }
